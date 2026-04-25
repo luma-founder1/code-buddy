@@ -32,7 +32,7 @@ const Hero = () => {
           className="mx-auto mt-6 max-w-2xl text-base text-muted-foreground sm:text-lg animate-fade-up"
           style={{ animationDelay: "160ms" }}
         >
-          Stop maintaining what Lovable, Bolt, or v0 built. Refract modularizes, types, documents, and cleans your codebase — automatically.
+          Stop maintaining what Bolt or v0 built. Refract modularizes, types, documents, and cleans your codebase — automatically.
         </p>
 
         <div

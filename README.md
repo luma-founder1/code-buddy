@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Refract - AI-Generated Code Cleanup
 
 TODO: Document your project here
