@@ -26,6 +26,18 @@ const faqs = [
     q: "What happens after I accept changes?",
     a: "Refract applies the selected transformations and opens a Pull Request with a fully documented changelog — ready to review and merge.",
   },
+  {
+    q: "How does annual billing work?",
+    a: "Our annual plans offer a ~20% discount (Pro is $16/mo, Team is $39/mo) and are billed once per year.",
+  },
+  {
+    q: "Can I upgrade, downgrade, or switch billing later?",
+    a: "Yes. Upgrades are prorated immediately, and downgrades take effect at the end of your current billing period.",
+  },
+  {
+    q: "What's your refund policy?",
+    a: "We offer a 14-day refund on your first paid charge. You can cancel your subscription anytime after that.",
+  },
 ];
 
 

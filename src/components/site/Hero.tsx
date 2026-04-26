@@ -2,7 +2,7 @@ import { ArrowRight, Play } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="relative pt-32 pb-20 md:pt-48 md:pb-32 overflow-hidden">
+    <section className="relative pt-12 pb-20 md:pt-16 md:pb-32 overflow-hidden">
       {/* Background glow */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-full pointer-events-none">
         <div className="glow-radial h-full w-full opacity-50" />
@@ -53,17 +53,6 @@ const Hero = () => {
           </a>
         </div>
 
-        <div
-          className="mt-20 animate-fade-up"
-          style={{ animationDelay: "320ms" }}
-        >
-          <div className="relative mx-auto max-w-5xl rounded-2xl border border-border bg-card/50 p-2 backdrop-blur shadow-2xl">
-            <div className="aspect-[16/10] overflow-hidden rounded-xl border border-border bg-background">
-              {/* This would be replaced with the DashboardMock or an image */}
-              <div className="grid h-full place-items-center bg-grid-noise opacity-20" />
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );

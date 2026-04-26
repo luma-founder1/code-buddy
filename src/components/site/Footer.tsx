@@ -26,7 +26,7 @@ const Footer = () => {
               <span className="text-base font-medium tracking-tight">Refract</span>
             </div>
             <p className="mt-4 max-w-xs text-sm text-muted-foreground">
-              The desktop tool for maintainable JavaScript and TypeScript codebases.
+              AI-generated code into production-ready codebases.
             </p>
           </div>
           {cols.map((c) => (
